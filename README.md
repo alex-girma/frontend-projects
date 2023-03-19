@@ -1,4 +1,4 @@
-A collection of various projects to learn Frontend Development.
+This is a collection of various [Next.js](https://nextjs.org/) projects to learn frontend development.
 
 ## Project stack
 
